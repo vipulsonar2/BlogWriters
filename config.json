@@ -1,0 +1,22 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/codingthunder",
+        "prod_uri":"mysql://root:@localhost/codingthunder",
+        "fb_url":"https://www.facebook.com/",
+        "twt_url":"https://x.com/",
+        "git_url":"https://github.com/",
+        "blog_name":"reliance",
+        "tag_line":"A Blog liked by jio users",
+        "gmail-user":"vipulsonar222@gmail.com",
+        "password":"jtra wjsd sgul uogc ",
+        "about_txt":"hi my name is vipul and i have created new blog website and i am god boy",
+        "no_of_posts":2,
+        "login_image":"login.png",
+        "admin_user":"vipul",
+        "admin_password":"12345678",
+        "upload_location":"C:\\Users\\its_vipul\\PycharmProjects\\Flask-tut\\static\\assets"
+
+    }
+}
